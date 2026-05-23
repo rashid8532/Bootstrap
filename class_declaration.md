@@ -1,1 +1,2 @@
-## how to declare a class
+## how to declare a classes
+.btn-p
