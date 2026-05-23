@@ -337,3 +337,5 @@ They reduce the need for custom CSS.
 * Text alignment
 * Background colors
 * Display helpers
+
+btn.primary
